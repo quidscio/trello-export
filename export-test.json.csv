@@ -1,0 +1,33 @@
+item,cDate,cId,cName,cDesc,cBoardId,cListId,cListName,aType,aText,aId,aOldValue
+card,2019-01-17 02:14:24.527000,5c3fe4dbbe303e7553ef4a6d,Card in 1,Card 1 description,5c3fe47a357b294355970619,5c3fe484a02d6b769cf4bd90,,,,,
+action,2019-01-17 02:14:24.528000,5c3fe4dbbe303e7553ef4a6d,Card in 1,,,5c3fe484a02d6b769cf4bd90,Card in 1,commentCard,Card 1 comment 2,5c3fe500054afe39e5aa3a72,
+action,2019-01-17 02:14:17.955000,5c3fe4dbbe303e7553ef4a6d,Card in 1,,,5c3fe484a02d6b769cf4bd90,Card in 1,commentCard,Card 1 comment 1,5c3fe4f9c5c092431a811a9c,
+action,2019-01-17 02:14:09.924000,5c3fe4dbbe303e7553ef4a6d,,,,,,updateCard,,5c3fe4f15867ab3e8984a80a,{'desc': ''}
+action,2019-01-17 02:13:47.735000,5c3fe4dbbe303e7553ef4a6d,Card in 1,,,5c3fe484a02d6b769cf4bd90,Card in 1,createCard,,5c3fe4dbbe303e7553ef4a6e,
+card,2019-01-17 02:15:52.577000,5c3fe4de31267562e23cbf83,Card in 2,Card 2 description,5c3fe47a357b294355970619,5c3fe484a02d6b769cf4bd90,,,,,
+action,2019-01-17 02:15:43.985000,5c3fe4de31267562e23cbf83,Card in 2,,,5c3fe484a02d6b769cf4bd90,Card in 2,commentCard,Card 2 comment 2 with happy face? :smile: ,5c3fe54f68daad837ee7144e,
+action,2019-01-17 02:15:27.783000,5c3fe4de31267562e23cbf83,,,,,,updateCard,,5c3fe53f1841292fc0bbb483,{'desc': 'Card 2 description with happy face?'}
+action,2019-01-17 02:15:15.030000,5c3fe4de31267562e23cbf83,,,,,,updateCard,,5c3fe5332583a787a1270859,{'desc': 'Card 2 description'}
+action,2019-01-17 02:14:52.072000,5c3fe4de31267562e23cbf83,Card in 2,,,5c3fe484a02d6b769cf4bd90,Card in 2,commentCard,Card 2 Comment 1,5c3fe51cf95240293f62e196,
+action,2019-01-17 02:14:43.347000,5c3fe4de31267562e23cbf83,,,,,,updateCard,,5c3fe5133f375256e79db247,{'desc': ''}
+action,2019-01-17 02:13:50.827000,5c3fe4de31267562e23cbf83,Card in 2,,,5c3fe484a02d6b769cf4bd90,Card in 2,createCard,,5c3fe4de31267562e23cbf84,
+card,2019-01-17 02:16:38.269000,5c3fe566d8f8267712d6d3d9,Card 1 in todo,Todo 1 description,5c3fe47a357b294355970619,5c3fe4914983cb60d2025827,,,,,
+action,2019-01-17 02:16:33.911000,5c3fe566d8f8267712d6d3d9,Card 1 in todo,,,5c3fe4914983cb60d2025827,Card 1 in todo,commentCard,Todo 1 comment,5c3fe58153b90a19d3590dae,
+action,2019-01-17 02:16:27.122000,5c3fe566d8f8267712d6d3d9,,,,,,updateCard,,5c3fe57b27995b532d2206ca,{'desc': ''}
+action,2019-01-17 02:16:06.741000,5c3fe566d8f8267712d6d3d9,Card 1 in todo,,,5c3fe4914983cb60d2025827,Card 1 in todo,createCard,,5c3fe566d8f8267712d6d3da,
+card,2019-01-17 02:17:54.715000,5c3fe5bb68631c3db464540b,Done 1 starting in done,Done 1 descrition,5c3fe47a357b294355970619,5c3fe497bedbeb785a221045,,,,,
+action,2019-01-17 02:17:50.914000,5c3fe5bb68631c3db464540b,Done 1 starting in done,,,5c3fe497bedbeb785a221045,Done 1 starting in done,commentCard,Done 1 comment 1,5c3fe5ce6c372c5eb186291b,
+action,2019-01-17 02:17:40.535000,5c3fe5bb68631c3db464540b,,,,,,updateCard,,5c3fe5c42feb8f262e469d26,{'desc': ''}
+action,2019-01-17 02:17:31.596000,5c3fe5bb68631c3db464540b,Done 1 starting in done,,,5c3fe497bedbeb785a221045,Done 1 starting in done,createCard,,5c3fe5bb68631c3db464540c,
+card,2019-01-17 02:18:24.473000,5c3fe570c5aab31b06568c50,Card 2 in todo that will move to done,Todo 2 description,5c3fe47a357b294355970619,5c3fe497bedbeb785a221045,,,,,
+action,2019-01-17 02:18:24.474000,5c3fe570c5aab31b06568c50,Card 2 in todo that will move to done,,,5c3fe497bedbeb785a221045,Card 2 in todo that will move to done,commentCard,Todo 2 comment after move,5c3fe5f028e847034986b70b,
+action,2019-01-17 02:18:02.121000,5c3fe570c5aab31b06568c50,,,,,,updateCard,,5c3fe5daa2bc8c1bb1f6bec1,{'idList': '5c3fe4914983cb60d2025827'}
+action,2019-01-17 02:17:07.983000,5c3fe570c5aab31b06568c50,Card 2 in todo that will move to done,,,5c3fe4914983cb60d2025827,Card 2 in todo that will move to done,commentCard,Todo 2 comment 1 before move,5c3fe5a322e8463a450306e3,
+action,2019-01-17 02:16:55.369000,5c3fe570c5aab31b06568c50,,,,,,updateCard,,5c3fe597fbf7f665786bbc36,{'desc': ''}
+action,2019-01-17 02:16:16.974000,5c3fe570c5aab31b06568c50,Card 2 in todo that will move to done,,,5c3fe4914983cb60d2025827,Card 2 in todo that will move to done,createCard,,5c3fe570c5aab31b06568c51,
+card,2019-01-17 02:19:40.666000,5c3fe5ff68631c3db4645ea5,Todo 3 that will be archived,Adding a todo 3 description (after archive),5c3fe47a357b294355970619,5c3fe4914983cb60d2025827,,,,,
+action,2019-01-17 02:19:40.669000,5c3fe5ff68631c3db4645ea5,,,,,,updateCard,,5c3fe63c51f6d563c70b1385,{'desc': ''}
+action,2019-01-17 02:19:24.791000,5c3fe5ff68631c3db4645ea5,Todo 3 that will be archived,,,5c3fe4914983cb60d2025827,Todo 3 that will be archived,commentCard,An archive comment (after archive),5c3fe62c874bf843a1d86bc5,
+action,2019-01-17 02:19:10.907000,5c3fe5ff68631c3db4645ea5,,,,,,updateCard,,5c3fe61ee9654f8cd1d1023d,{'closed': False}
+action,2019-01-17 02:19:03.884000,5c3fe5ff68631c3db4645ea5,Todo 3 that will be archived,,,5c3fe4914983cb60d2025827,Todo 3 that will be archived,commentCard,Todo 3 comment 1 before archive,5c3fe617fb88733df6a19bf2,
+action,2019-01-17 02:18:39.491000,5c3fe5ff68631c3db4645ea5,Todo 3 that will be archived,,,5c3fe4914983cb60d2025827,Todo 3 that will be archived,createCard,,5c3fe5ff68631c3db4645ea6,
